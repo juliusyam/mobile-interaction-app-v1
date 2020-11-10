@@ -48,7 +48,7 @@ public class CardDeck extends AppCompatActivity {
 
         if (list.size() == 0) {
             card_result.setText("No More Cards!");
-            list.add(randomCard);
+            //list.add(randomCard);
 //            Intent intent = new Intent (this, CardDeck. class);
 //            startActivity(intent);
         }
